@@ -1,93 +1,67 @@
-Johnny Coder
-============
+# online-resume
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+[English](README.md) | [简体中文](README_CN.md)
 
-Education
----------
+---
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Yet another resume template based on Jekyll. You can write your resume using Markdown, it will be rendered into HTML and can be printed as PDF file.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Features:
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
++ Easy to use/edit/hide
++ Jekyll + Markdown + Github Pages
++ Multiple languages
++ Multiple skins
++ Content modular
++ Responsive display
++ Print-friendly
 
-    *Minor: Awesomeology*
+## Getting Started
 
-Experience
-----------
+### Usage
 
-**Your Most Recent Work Experience:**
+#### Quickly
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Fork this repository:
 
-* First item
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/fork.png "fork this repository")
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Edit the YAML file located in `_data/data.yml`:
 
-**That Other Job You Had**
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/edit.png "edit the yaml file")
 
-Also with a short description.
+Setting the Github pages source branch in `settings -> Github Pages -> source`, select `master branch`:
 
-Technical Experience
---------------------
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/source.png "select github pages source branch")
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Wait a little while, open `https://YOUR_GITHUB_USERNAME.github.io/online-resume` in your browser. You can see your resume.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+with profile photo:
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume1.png "resume with profile photo")
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+without profile photo:
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+![](https://github.com/tarrex/online-resume/raw/master/assets/images/resume2.png "resume without profile photo")
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+If you want to print your resume, just press the shortcut of print. Also, it can be saved as a PDF file.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+#### Locally
 
-[ref]: https://github.com/githubuser/superlongprojectname
+If you want to use it locally, you should clone this repository then just like deploying a regular Jekyll website.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+### Customization
 
-* Human Languages:
++ `_data/data.yml`: All the resume content.
++ `assets/images/profile.png`: Your profile photo.
++ `_config.yml`: Site's general settings.
++ `index.html`: Change the resume content's display order.
++ `_sass/_base.scss`: Change the resume display style.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+## License
 
-* Random tidbit
+[MIT](https://choosealicense.com/licenses/mit/)
 
-* Other sort of impressive-sounding thing you did
+## Others
+
++ Hugo Version: [hugo-theme-online-resume](https://github.com/tarrex/hugo-theme-online-resume)

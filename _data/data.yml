@@ -125,7 +125,7 @@ education:
 
 certificates:
   display: true
-  title: 
+  title: Sertifikalar
   items:
     - name: Bilişim ve Kariyer Günleri
       authority: Akademi Isparta
@@ -133,12 +133,12 @@ certificates:
       link:
       details: |
         Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
+    - name: Bilişim ve Kariyer Günleri
+      authority: Akademi Isparta
+      time: 2010
       link: https://www.google.com
       details: |
-
+        Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
 publications:
   display: true
   title: Publications

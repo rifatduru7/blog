@@ -36,7 +36,7 @@ profile:
 
 experiences:
   display: true
-  title: Experiences
+  title: IS DENEYIMLERI
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
@@ -50,17 +50,17 @@ experiences:
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Bilgi İşlem Stajyeri
+      time: 09.2006 - 06.2007 
+      company: Mercedes Benz-Türk
+      tag: Stajyer
+      location: İstanbul(Avr.)
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        Mercedes Benz-Türk Firması Türkiye ve dünya'nın önde gelen otomotiv firması konumunda.Hadımköy de bulunan
+        Pazarlama Merkezinde Bilgi işlem departmanında stajyer görevini üstlendim.Staj süresi boyunca çeşitli sorumluluklar alarak staj bitiminde yaz tatilinde de çalışmaya devam ettim.
+        + Teyp Backup kontrolü
+        + Microsoft Exchange Mail kontrolü
+        + Son kullanıcı desteği
 
 projects:
   display: true

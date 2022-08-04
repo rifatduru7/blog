@@ -38,7 +38,17 @@ experiences:
   display: true
   title: IS DENEYIMLERI
   items:
-    - role: Bilgi İşlem Uzman Yardımcısı
+    - role: Bilgi Teknolojileri Danışmanı
+      time: 09.2020 - Hala çalışıyorum 
+      company: Smart Tek Bilişim Teknolojileri ve Yazılım Sistemleri
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Müşterilerine Bilgi Teknolojileri alanında destek veren Smart Tek Bilişimde Bilgi Teknolojileri Danışmanı olarak işe başladım. 9 Firma ile başladığımız serüvenim 17 firmaya ulaştı.
+        Müşterilerimize son kullanıcı desteği, sunucu sisteminin kurulumu ve sistem kontrolü, yedekleme sistemi kurulumu ve kontrolü,Güvenlik altyapısının sürekli güncel tutulması, Firewall ve Hotspot' ın müşterilerde aktif olarak kullanılması, ERP desteği veriyoruz.
+        ETA ve CPM ERP son kullanıcı temel seviyede desteğini sağlamak ve Raporlamak destek paketlerimizin içeriğinde müşterilerimize sunduk.Sunucu, Firewall ve diğer network cihazlarından gelen log verileri tek bir yere toplanarak takibi ve izlemesi kolaylaştı. 
+        
+    - role: Bilgi İşlem Sorumlusu
       time: 03.2019 - 09.2020 
       company: GCM Makine
       tag: Sürekli / Tam zamanlı

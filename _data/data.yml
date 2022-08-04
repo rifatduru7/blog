@@ -99,29 +99,19 @@ skills:
 
 education:
   display: true
-  title: Education
+  title: EGITIM
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Mehmet Akif Ersoy Üniversitesi
+      time: 2008 - 2011
+      major: Bilgisayar ve Teknoloji Yüksekokulu
+      degree: Bilgisayar Teknolojisi ve Programlama (MYO)
       details: |
-        Experience in this university:
-        + First
-        + Second
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+    - university: Kıraç İMKB EML
+      time: 2004 - 2007
+      major: Anadolu Meslek Lisesi
+      degree: Bilgisayar Donanım
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
   display: true

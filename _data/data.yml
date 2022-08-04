@@ -1,25 +1,25 @@
 basic:
   name: Rıfat DURU
-  title: Backend Developer
+  title: Bilgi Teknolojileri Danışmanı
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: rifat@rifatduru.com
+  phone: +90 554 962 71 02
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: rifat.duru.com
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: rifatduru07
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: rifatduru
   stackoverflow:
   quora:
   goodreads:

@@ -133,12 +133,12 @@ certificates:
       link:
       details: |
         Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
-    - name: Bilişim ve Kariyer Günleri
-      authority: Akademi Isparta
-      time: 2010
-      link: https://www.google.com
+    - name: ASP.Net 3.5 ve Silverlight 4.0
+      authority: Microsoft  
+      time: 12.2010
+      link: 
       details: |
-        Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
+        Microsoft'un düzenlediği seminer yeni bir teknoloji olan silverlight ağırlık olarak yürütüldü 
 publications:
   display: true
   title: Publications

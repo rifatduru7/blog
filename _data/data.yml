@@ -139,6 +139,30 @@ certificates:
       link: 
       details: |
         Microsoft'un düzenlediği seminer yeni bir teknoloji olan silverlight ağırlık olarak yürütüldü 
+    - name: Bilişim - Microsoft Sertifikasyon programları - MCSA Microsoft Certified Systems Administrators
+      authority: Kariyer Mimarlığı
+      time: 05.2017
+      link: 
+      details: |
+        Başarı Sertifikası Sertifika ID :201759125-81-2
+    - name: Bilişim - Microsoft Sertifikasyon programları -MCSA Microsoft Certified Systems Administrators
+      authority: Kariyer Mimarlığı
+      time: 05.2017
+      link: 
+      details: |
+        Sertifika ID : 201753180-96-2
+    - name: Sağlık-Tıp - İlk Yardım Eğitim Sertifikası - İlk Yardım Eğitim Sertifikası
+      authority: Bir İlkyardım Eğitim Merkezi
+      time: 06.2017
+      link: 
+      details: |
+        Belge No : TEMEL/2014/68750/1314
+    - name: Bilişim - Cisco Sertifikasyon programları - CCNA - Cisco Certified Networking Associate
+      authority: Kariyer Mimarlığı
+      time: 07.2017
+      link: 
+      details: |
+        Sertifika ID : 201741192-34-2
 publications:
   display: true
   title: Publications

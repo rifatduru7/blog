@@ -125,14 +125,14 @@ education:
 
 certificates:
   display: true
-  title: Certificates
+  title: 
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
+    - name: Bilişim ve Kariyer Günleri
+      authority: Akademi Isparta
+      time: 2010
       link:
       details: |
-        It's my Course Foo certificate by coursera.
+        Bilişim Günleri olarak düzenlenen seminerde yeni teknojiler ve kariyer tespiti hakkında tartışıldı
     - name: Course Bar
       authority: Coursera
       time: 2020

@@ -38,17 +38,27 @@ experiences:
   display: true
   title: IS DENEYIMLERI
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
+    - role: Bilgi İşlem Sorumlusu
+      time: 12.2014 - 05.2016
+      company: Yıldız Mekatronik Sistemleri
+      tag: Sürekli / Tam zamanlı
       location: İstanbul
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Şirket içi ağ sistemleri yeni nesil cihazlar ile yenilendi. Güvenlik duvarı kullanılmayan firmada Cyberoam Firewall ile ağ güvenli hale getirildi. 
+        Şirket verileri kullanıcı bilgisayarlarından toplanarak, Vmware Esxi üzerinde oluşturulan File Server üzerinde paylaşım ortamı oluşturuldu. 
+        Eski tip telefon santrali IP Telefon altyapısına taşındı. Web sayfası tekrardan tasarlanarak yayınlandı. Loglama yapısı mail üzerinden izlenecek şekilde her cihaz ve sunucudan gelen verilerin
+        tek bir yerden takip edilebilmesi sağlandı. Yedekleme altyapısı olarak Teyp ve QNAP kullanılarak Acronis ile yedekler alındı. Otomasyonlu yangın sistemi kurulumu için eğitim alındı.
+        Şirketin RES projesine dahil olması ile birlikte, Çeşitli zayıf akım projeleri yapma fırsatı yakaladım. 4 RES Lokasyonunda Yangın algılama sistemi olarak Siemes Cerberus kullanıldı
+        Kamera ve Alarm sistemlerinin kurulumunda destek verdim. RES kontrol binalarında bulunan ağ yapısı, fiber altyapısı, sunucular ve IP Telefon kurulumları yapıldı. 
+        Projeler Borusan ENBW santrlleri için yapıldı.
 
-        ...
+    - role: Grafiker
+      time: 09.2007 - 08.2008
+      company: Setko Düğme San Ve Tic.Ltd.Şti.
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Lazer CNC makinelerin düğme üzerine yaptığı işlemelerin çizimleri Autocad kullanılarak hazırlandıktan sonra, makineye ağ üzerinden gönderilerek üretimi yapılması sağlandı.
 
     - role: Bilgi İşlem Stajyeri
       time: 09.2006 - 06.2007 

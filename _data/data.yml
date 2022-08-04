@@ -38,6 +38,45 @@ experiences:
   display: true
   title: IS DENEYIMLERI
   items:
+    - role: Bilgi İşlem Uzman Yardımcısı
+      time: 03.2019 - 09.2020 
+      company: GCM Makine
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Bilgi işlem departmanının bir süredir kadrosu bulunmadığından dolayı takip edilmeyen lisanslar, güvenlik politikaları neticesinde saldırı alan sistem, 
+        Yeni nesil Lenovo sunucu, Yeni nesil Zyxel firewall, Rack tip Nas cihazı, Switch ve Access Pointler değiştirildi. Eski sürüm ESXI, Hyper V sanallaştırma teknolojisine taşındı.
+        Tek bir sunucuda bütün yapının kurulu olduğu eski yapı, Domain Controller, SQL Server, LogServer gibi farklı işlevler için farklı sanal sunucular kurularak yönetimi yedekleme konusunda çeviklik kazandırıldı.
+        Yedekleme alternatifleri oluşturuldu. Server Backup, Veeam, 2 farklı Cloud alanına yedekler alınarak yedeklilik seviyesi yükseltildi. Cloud kontrol destekli Access Pointler ile 
+        uzaktan kontrol sağlanabilir hale getirildi. Misafir ağı için Hotspot kurulumu yapıldı. PDKS sistemi giriş çıkışlar ve ARGE Tasarım merkezinin ortak takip edilebileceği şekilde tasarlandı.
+        Domain'e bağlı olmayan Client' lar domaine bağlandı ve gerekli Policyler uygulanarak iç ağdaki güvenli ortam sağlandı. File Server DFS namespace ile oluşturularak domain üzerinden kontrolü kolaylaştırıldı.
+        İzmir ve Bursa şubeleri arasında IPSEC VPN ile bağlantı kurularak kullanıcılar domaine dahil edildi. Loglama yapısı firewall, sunucular ve diğer network cihazlarından toplanarak
+        Logsign üzerinde takibi kolay ve raporlanabilir hale getirildi. Her ay ağ risklerini ölçmek için ağın güvenliğini test edebilecek araçlar kullanılarak kontrolü sağlandı. 
+        Firmanın ürettiği tekstil makinelerine Endüstriyel PC, Barkod yazıcı kurulumları yapıldı. Bu kurulumların akabinde makineden gelen metre ve kilogram verilerinin bilgisara PLC üzerindeki
+        bloktan doğru gelip gelmediği kontrol edildi. Mail sistemi paylaşımlı hosting üzerinden alınarak, Office 365 üzerine taşındı. Spam ve Pishing maillerden kullanıcıların en az etkilenir hale getirilmesi sağlandı.
+        Kumaş Kalite Kontrol Programının kurulumuna destek olundu. Bu programın şirket içerisinde yeniden kodlanıp dışarıdan çıkan lisans maliyetinden kurtarılması için çalışma yapıldı.
+        Şirket web sayfaları güncellemeleri takip edildi. Bilgi işlem envanteri için Web Uygulaması PHP framework'ü olan Codeigniter üzerinde yazdım ve aktif kullandım. Son kullanıcılardan gelen destek
+        talepleri için ticket sistemi yine Codeigniter altyapısı kullanarak yazıldı ve kullanıma açıldı. Şirket içi ve şirket dışında çalışan personelin iletişim konusunda yeni bir kanala yönlendirerek
+        Microsoft Teams'i bütün kullanıcıların aktif olarak kullanması sağlandı. Her departman için kanallar açıldı kullanıcılar kendi departmanı ile iletişime geçebilecek hale getirildi.
+        Temel ihtiyaçların giderilmesi sonrasında şirket altyapısı geliştirilmeye devam edildi.
+    - role: Bilgi İşlem Uzman Yardımcısı
+      time: 08.2016 - 09.2018 
+      company: İntercombi Transport & Logistics
+      tag: Sürekli / Tam zamanlı
+      location: İstanbul
+      details: |
+        Donanım ve yazılım alımlarına teknik destek sağlamak. Satın alınan donanımların ve yazılımların teslim alma işlemlerini
+        kontrol etmek. Lisanslama faaliyetlerinin takibini yapmak. İşletmenin envanterindeki donanım ve yazılımlar ile ilgili
+        periyodik takipleri gerçekleştirmek. Fiziksel kurulumlarını yapmak/ yapılmasını sağlamak. Kurulum öncesi hazırlık
+        yapmak. Donanımların fiziksel kurulumlarının gerçekleşmesini sağlamak. Ağ donanımlarını ve sunucu sistemlerini
+        yapılandırmak. Aktif ağ donanımlarını yapılandırmak,Kablosuz ağ güvenliğini sağlamak. Sunucu işletim sistemlerinin
+        kurulumlarını yapmak. Sunucu servislerinin yapılandırılmasını değerlendirmek, Dizin hizmetini yapılandırmak. Periyodik
+        yedeklerin alımı. Yazıcı,tarayıcı gibi çevre bileşenlerinin temini,kurulumlarını ve bakımlarını yapmak. Kişisel bilgisayar
+        sistemlerini ve çevre birimlerini yapılandırmak. Kişisel bilgisayarların ilk çalıştırmasını yapmak ve işletim sistemini
+        yüklemek. Donanım sürücülerini yükletmek,Ağ ve internet bağlantısını kurmak. Ortak kullanıma sunulacak çevre
+        birimlerini yapılandırmak. Sistemlerin bakımını yaptırmak.BT sistemlerinin harici ve dahili bileşenlerini değiştirmek.
+        İşletme içi kullanıcılara BT desteği verilmesini sağlamak.
+
     - role: Bilgi İşlem Sorumlusu
       time: 12.2014 - 05.2016
       company: Yıldız Mekatronik Sistemleri

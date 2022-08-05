@@ -1,4 +1,4 @@
-# online-resume
+# Rıfat DURU
 
 ---
 

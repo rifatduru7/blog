@@ -181,23 +181,34 @@ skills:
     - name: Codeigniter
       level: 90
     - name: SQL
-      level: 85
-    - name: CSS
-      level: 75  
+      level: 70
     - name: Vue JS
       level: 85
     - name: SQL
       level: 70
-    - name: Kibana - Elastic Search
+    - name: Kibana
       level: 80
-    - name: Wazuh - Grafana - Zabbix
+    - name: Elastic Search
+      level: 80
+    - name: Wazuh
+      level: 95
+    - name: Grafana
+      level: 95
+    - name: Zabbix
       level: 95
     - name: Windows Server
       level: 95
-    - name: Centos / Ubuntu Server
+    - name: Centos
       level: 95
-    - name: AWS / Google Cloud / Azure
+    - name: Ubuntu Server
+      level: 95
+    - name: AWS
       level: 85
+    - name: Google Cloud
+      level: 85
+    - name: Azure
+      level: 85
+
         
 
           

@@ -279,22 +279,13 @@ languages:
 
 interests:
   display: true
-  title: Interests
+  title: ILGI ALANLARI
   items:
-    - item: Reading
+    - item: Müzik Litaratürü Takip Etmek / Konser
       link:
-    - item: Cooking
+    - item: Makale Okumak, Podcast Dinlemek, Notlar almak
       link:
 
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
 
 footer:
   display: true

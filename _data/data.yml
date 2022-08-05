@@ -128,10 +128,19 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI
+      link: https://rifatduru7.github.io/blog/assets/images/kuzeymap.png
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Kuzey İstanbul’ un çok şubeli(lokasyonlu) yapısına en güvenli çözüm olarak SD-WAN bağlantısı ile lokasyonlar ve bulut arasına bağlantı sağlamak oldu.
+        Temelde,Kuzey İstanbul gibi birden çok şubesi bulunan işletmelerin kullandığı SD WAN, aynı ağ sistemi üzerinden tüm şubeleri birbirine bağlayarak sanki 
+        tek lokasyona sahiplermiş gibi veri paylaşımı yapmalarına imkan sağladı. Geleneksel yapıda çok şubeli bir işletmenin her şubesinde 
+        bulunan routerların yönetimi tek tek yapılıyor. Bu sebeple halihazırda bağlantısında sorun olan routerlarınızı bulmak isterseniz önce sorunun hangi 
+        routerda olduğunu keşfetmeniz, daha sonra da sorunu çözmek için yine tek tek işlem yapmamız gerekiyordu. Geleneksel yapıda uzaktan müdahale imkanı 
+        bulunmasına rağmen şube sayısı çok olan bir işletme söz konusu olduğunda bu sorun yönetimi, operasyonel süreçlerinizi sekteye uğratabiliyor. 
+        SD WAN teknolojisi öncelikle sorunlarınızı tespit ederken kullanıcısına çok daha pratik bir listeleme yöntemi sunuyor ve sorunları tek bir merkezden, 
+        tek bir arayüzden kolayca çözmenize imkan sağladı. Bu, işletmeye büyük bir kolaylık sunarken hata payını da hayli azalttı. Görselde görüldüğü şekilde
+        ana yapı cloud üzerinde inşa edildiği için SDWan en güvenli ve hızlı çözüm oldu.
+
 
     - name: Bar
       link:

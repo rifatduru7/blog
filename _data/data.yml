@@ -30,8 +30,9 @@ profile:
   details: |
     Bilgisayar ve internet ile tanıştığım ilk günden beri merakım hep "nasıl çalışıyora" yönelik oldu. Bu nedenle araştırmak reflex haline geldi. Bir konu hakkında bilgimi tazelemek yada bilmediğim soruların
     cevaplarını hep araştırarak buldum. Kimi zaman bir kitaptan kimi zaman internetten. Okul tercihlerim de hep bu yönde oldu önce Lisede Bilgisayar Donanım, ardından Üniversite de Bilgisayar Programcılığı.
-    Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelini oluşturabildiğim bir
-    yapı haline getirdim.
+    Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelimi oluşturabildiğim bir
+    yapı haline getirdim. Üniversite sonrası bir süre meslek dışı işler yaptıktan sonra, mesleğim ile ilgili kendimi geliştirmeye devam ettim. Şirketlerin sistemlerini daha iyi kavrayabilmek için
+    kurslara gittim ve etkisini Intercombi firmasında çokça yaşadım. Open UI5 ile SAP ekranları tasarlayıp müşteri entegrasyonları yapmaya başladım. 
     + aromatikboya.com.tr
     + gcmmakine.com.tr
     + rupaboya.com.tr
@@ -194,8 +195,8 @@ skills:
       level: 70
     - name: Vue JS
       level: 85
-    - name: SQL
-      level: 70
+    - name: ASP.net
+      level: 80
     - name: Kibana
       level: 80
     - name: Elastic Search
@@ -226,10 +227,16 @@ skills:
       level: 75
     - name: Figma
       level: 95
+    - name: Fortigate
+      level: 95
+    - name: ZYXEL Firewall
+      level: 95
+    - name: Sophos Firewall
+      level: 90
+    - name: Pslo Alto
+      level: 80
 
-        
-
-          
+     
 
 education:
   display: true

@@ -26,11 +26,17 @@ contact:
 
 profile:
   display: true
-  title: Profile
+  title: PROFIL
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    Bilgisayar ve internet ile tanıştığım ilk günden beri merakım hep "nasıl çalışıyora" yönelik oldu. Bu nedenle araştırmak reflex haline geldi. Bir konu hakkında bilgimi tazelemek yada bilmediğim soruların
+    cevaplarını hep araştırarak buldum. Kimi zaman bir kitaptan kimi zaman internetten. Okul tercihlerim de hep bu yönde oldu önce Lisede Bilgisayar Donanım, ardından Üniversite de Bilgisayar Programcılığı.
+    Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelini oluşturabildiğim bir
+    yapı haline getirdim.
+    + aromatikboya.com.tr
+    + gcmmakine.com.tr
+    + rupaboya.com.tr
+    + saliksdanismanlik.com
+    + 
 
     ...
 
@@ -157,7 +163,7 @@ projects:
     - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
       link: https://rifatduru7.github.io/blog/assets/images/google_cloud.pdf
       details: |
-        Google Cloud üzerine CPANEL ve CYBER PANEL web servarları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
+        Google Cloud üzerine CPANEL ve CYBER PANEL web sunucuları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
         Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
 
     - name: LOGLAMA VE MONITORING (Görsel Linki)
@@ -168,7 +174,11 @@ projects:
         Firmalara özel raporlaramalar hazırlayabilme kabiliyetine sahip oldum. Belli periyotlarda aldığım raporlar ile sunucu durumlarını check ederek her bir sunucuya bağlanıp kontrol etmek için zaman ayırmama gerek kalmadı.
         Zabbix ile Sunucular, Yazıcılar, Firewall, Network cihazlarından yakalanan her bir log zabbix ile montitoring edebilir hale getirdim. Kritik durumlarda mail ile aldığım uyarılarda problem oluşmadan müdehale edebilme çevikliğine sahip oldum.
 
-
+    - name: DOF Robotic ISO 27001 ve Turquality Döküman Hazırlama
+      link: 
+      details: |
+        Dof Robotic firması için Dijitalleşme Yönetimi, ISO 27001 ve Turquality projelerinde şirketin Bilgi Teknolojileri Departmanı Dökümanları oluşturuldu. Dijitallesme Strateji Dokumanları, Performans Olcutleri, Uygulama Ve Alt Yapi Dokumani alanlarında özel çalışma yapılarak bütün altyapı dökümente edilebilir hale getirildi.
+        Bütün süreçler sertifika alınana kadar takip edildi.
 skills:
   display: true
   title: YETENEKLER
@@ -208,6 +218,14 @@ skills:
       level: 85
     - name: Azure
       level: 85
+    - name: Docker
+      level: 90
+    - name: Kubernetes
+      level: 60
+    - name: Flutter/Dart
+      level: 75
+    - name: Figma
+      level: 95
 
         
 

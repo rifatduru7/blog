@@ -143,7 +143,12 @@ projects:
         ana yapı cloud üzerinde inşa edildiği için SDWan en güvenli ve hızlı çözüm oldu.
 
 
-    - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI
+    - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI(Görsel Linki)
+      link: https://rifatduru7.github.io/blog/assets/images/cloudlist.png
+      details: |
+        Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.
+
+    - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
       link: https://rifatduru7.github.io/blog/assets/images/cloudlist.png
       details: |
         Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.

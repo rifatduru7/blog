@@ -33,7 +33,7 @@ profile:
     Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelimi oluşturabildiğim bir
     yapı haline getirdim. Üniversite sonrası bir süre meslek dışı işler yaptıktan sonra, mesleğim ile ilgili kendimi geliştirmeye devam ettim. Şirketlerin sistemlerini daha iyi kavrayabilmek için
     kurslara gittim ve etkisini Intercombi firmasında çokça yaşadım. Open UI5 ile SAP ekranları tasarlayıp müşteri entegrasyonları yapmaya başladım. GCM Makine de tamamen atıl durumda kalmış Sunucu ve diğer cihazları yeniledim ve ağ ortamını güvenli hale getirdim
-    Yöneticiler tarafında daha önce külfet olarak düşünülen lisanslama, donanım yatırımları ilk gereksinim olarak görülmeye başlandı. Smarttek Bilişim müşterilerine Bilgi Teknolojileri Danışmanlığı ve ERP danışmanlığı veren bir firma. 
+    Yöneticiler tarafında daha önce külfet olarak düşünülen lisanslama, donanım yatırımları ilk gereksinim olarak görülmeye başlandı. Şuanda çalıştığım firma olan Smarttek Bilişim' de çok daha kapsamlı Bilişimin her alanında projeler uygulama geliştirme imkanı yakaladım. 
     + aromatikboya.com.tr
     + gcmmakine.com.tr
     + rupaboya.com.tr
@@ -184,7 +184,7 @@ skills:
   display: true
   title: YETENEKLER
   details: |
-    Kullandığım Yazılım Dilleri ve Programlar Hakkındaki Seviye :
+    Yazılım Dilleri, Programlar ve Cihazlar Hakkında Seviye :
 
   levels:
     - name: PHP

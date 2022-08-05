@@ -167,7 +167,7 @@ projects:
         ile bağlanarak anlık olarak gelen eventları anlamlı bir şekilde görselleştirebilir ve kritik durum seviyesine göre uyarı mailleri ile yöneticiyi uyarabilir hale getirildi. Elastic Search ile
         Firmalara özel raporlaramalar hazırlayabilme kabiliyetine sahip oldum. Belli periyotlarda aldığım raporlar ile sunucu durumlarını check ederek her bir sunucuya bağlanıp kontrol etmek için zaman ayırmama gerek kalmadı.
         Zabbix ile Sunucular, Yazıcılar, Firewall, Network cihazlarından yakalanan her bir log zabbix ile montitoring edebilir hale getirdim. Kritik durumlarda mail ile aldığım uyarılarda problem oluşmadan müdehale edebilme çevikliğine sahip oldum.
-                   
+
 
 skills:
   display: true
@@ -181,11 +181,26 @@ skills:
     - name: Codeigniter
       level: 90
     - name: SQL
-      level: 70
+      level: 85
+    - name: CSS
+      level: 75  
     - name: Vue JS
       level: 85
     - name: SQL
-      level: 70     
+      level: 70
+    - name: Kibana - Elastic Search
+      level: 80
+    - name: Wazuh - Grafana - Zabbix
+      level: 95
+    - name: Windows Server
+      level: 95
+    - name: Centos / Ubuntu Server
+      level: 95
+    - name: AWS / Google Cloud / Azure
+      level: 85
+        
+
+          
 
 education:
   display: true

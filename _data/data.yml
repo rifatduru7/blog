@@ -128,9 +128,10 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI(Görsel Linki)
+    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI VE FIZIKSEL SUNUCULARIN CLOUD AKTARIMI(Görsel Linki)
       link: https://rifatduru7.github.io/blog/assets/images/kuzeymap.png
       details: |
+        Firmanın Co Location çalışan 3 fiziksel sunucusundaki 11 Sanal sunucu, S3 Cloud üzerine taşındı. SD-WAN bağlantısı yapılmadan önce SSL VPN ile kullanıcılar ağa dahil ediliyordu.
         Kuzey İstanbul’ un çok şubeli(lokasyonlu) yapısına en güvenli çözüm olarak SD-WAN bağlantısı ile lokasyonlar ve bulut arasına bağlantı sağlamak oldu.
         Temelde,Kuzey İstanbul gibi birden çok şubesi bulunan işletmelerin kullandığı SD WAN, aynı ağ sistemi üzerinden tüm şubeleri birbirine bağlayarak sanki 
         tek lokasyona sahiplermiş gibi veri paylaşımı yapmalarına imkan sağladı. Geleneksel yapıda çok şubeli bir işletmenin her şubesinde 
@@ -142,8 +143,8 @@ projects:
         ana yapı cloud üzerinde inşa edildiği için SDWan en güvenli ve hızlı çözüm oldu.
 
 
-    - name: Bar
-      link:
+    - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI
+      link: https://rifatduru7.github.io/blog/assets/images/cloudlist.png
       details: |
         Project Bar's detail, you can write markdown format text.
 

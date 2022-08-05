@@ -146,7 +146,7 @@ projects:
     - name: CPM YAZILIM FİZİKSEL SUNUCU CLOUD AKTARIMI
       link: https://rifatduru7.github.io/blog/assets/images/cloudlist.png
       details: |
-        Project Bar's detail, you can write markdown format text.
+        Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.
 
 skills:
   display: true

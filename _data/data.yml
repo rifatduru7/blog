@@ -128,7 +128,7 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI
+    - name: KUZEY İSTANBUL LOKASYONLAR ARASI BALANTI / SD-WAN IP SEC İLE CLOUD FIREWALL BAGLANTISI(Görsel Linki)
       link: https://rifatduru7.github.io/blog/assets/images/kuzeymap.png
       details: |
         Kuzey İstanbul’ un çok şubeli(lokasyonlu) yapısına en güvenli çözüm olarak SD-WAN bağlantısı ile lokasyonlar ve bulut arasına bağlantı sağlamak oldu.

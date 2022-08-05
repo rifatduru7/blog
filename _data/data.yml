@@ -151,7 +151,9 @@ projects:
     - name: GOOGLE CLOUD ÜZERİNDE CPANEL, CYBER PANEL ve CLOUD STORAGE (Görsel Linki)
       link: https://rifatduru7.github.io/blog/assets/images/google_cloud.pdf
       details: |
-        Fiziksel 3 Ad. Rack tipi ve 2 Ad. Tower sunucu Cloud'a taşındı.
+        Google Cloud üzerine CPANEL ve CYBER PANEL web servarları kuruldu. Müşterilerimizin web sayfaları ve web uygulamaları bu paneller üzerinden yönetilir duruma getirildi.
+        Cloudflare üzerinde domain yönetimi yapılmaktadır. Google CLoud üzerinde SQL ve Server IMAJ yedeklerimiz de storage alanlarında tutulabilmesini sağlayacak bucket alanlar oluşturuldu.
+        
 
 skills:
   display: true

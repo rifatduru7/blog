@@ -30,9 +30,9 @@ profile:
   details: |
     Bilgisayar ve internet ile tanıştığım ilk günden beri merakım hep "nasıl çalışıyora" yönelik oldu. Bu nedenle araştırmak reflex haline geldi. Bir konu hakkında bilgimi tazelemek yada bilmediğim soruların
     cevaplarını hep araştırarak buldum. Kimi zaman bir kitaptan kimi zaman internetten. Okul tercihlerim de hep bu yönde oldu önce Lisede Bilgisayar Donanım, ardından Üniversite de Bilgisayar Programcılığı.
-    Üniversitede linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. PHP ile projeler yapma fırsatım oldu. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelimi oluşturabildiğim bir
+    Öğrenim hayatımda linux ve açık kaynak kodun önemini daha net kavradıktan sonra PHP öğrendim. Ardından teoride öğrendiklerimi pratiğe dökebileceğim projelerde yer aldım. Bu projeleri daha sonra PHP frameworklerine (Codeigniter, Laravel) taşıyarak kendi yönetim panelimi oluşturabildiğim bir
     yapı haline getirdim. Üniversite sonrası bir süre meslek dışı işler yaptıktan sonra, mesleğim ile ilgili kendimi geliştirmeye devam ettim. Şirketlerin sistemlerini daha iyi kavrayabilmek için
-    kurslara gittim ve etkisini Intercombi firmasında çokça yaşadım. Open UI5 ile SAP ekranları tasarlayıp müşteri entegrasyonları yapmaya başladım. GCM Makine de tamamen atıl durumda kalmış Sunucu ve diğer cihazları yeniledim ve ağ ortamını güvenli hale getirdim
+    kurslara gittim ve etkisini Intercombi firmasında çokça yaşadım. Open UI5 ile SAP ekranları tasarlayıp müşteri entegrasyonları yapmaya başladım. GCM Makine de tamamen atıl durumda kalmış Sunucu ve diğer cihazları yeniledim ve ağ ortamını güvenli hale getirdim.
     Yöneticiler tarafında daha önce külfet olarak düşünülen lisanslama, donanım yatırımları ilk gereksinim olarak görülmeye başlandı. Şuanda çalıştığım firma olan Smarttek Bilişim' de çok daha kapsamlı Bilişimin her alanında projeler uygulama geliştirme imkanı yakaladım. 
     + aromatikboya.com.tr
     + gcmmakine.com.tr
@@ -51,7 +51,7 @@ experiences:
       tag: Sürekli / Tam zamanlı
       location: İstanbul
       details: |
-        Müşterilerine Bilgi Teknolojileri alanında destek veren Smart Tek Bilişimde Bilgi Teknolojileri Danışmanı olarak işe başladım. 9 Firma ile başladığımız serüvenim 17 firmaya ulaştı.
+        Müşterilerine Bilgi Teknolojileri alanında destek veren Smart Tek Bilişimde Bilgi Teknolojileri Danışmanı olarak işe başladım. 9 firma ile başladığımız serüvenim 17 firmaya ulaştı.
         Müşterilerimize son kullanıcı desteği, sunucu sisteminin kurulumu ve sistem kontrolü, yedekleme sistemi kurulumu ve kontrolü,Güvenlik altyapısının sürekli güncel tutulması, Firewall ve Hotspot' ın müşterilerde aktif olarak kullanılması, ERP desteği veriyoruz.
         ETA ve CPM ERP son kullanıcı temel seviyede desteğini sağlamak ve Raporlamak destek paketlerimizin içeriğinde müşterilerimize sunduk.Sunucu, Firewall ve diğer network cihazlarından gelen log verileri tek bir yere toplanarak takibi ve izlemesi kolaylaştı. 
         
